@@ -1,8 +1,8 @@
-let myVar = "C in fun"
+const myVar = "C in fun"
 console.log(myVar);
 
-let myVar = "Python is cool"
+const myVar = "Python is cool"
 console.log(myVar);
 
-let myVar = "JavaScript is amazing"
+const myVar = "JavaScript is amazing"
 console.log(myVar);
